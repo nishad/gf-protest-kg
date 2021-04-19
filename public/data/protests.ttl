@@ -1,0 +1,3255 @@
+@prefix schema: <http://schema.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://example.org/gf-protest-kg#0>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q42328401> ;
+  schema:Country <http://www.wikidata.org/entity/Q20> ;
+  rdfs:label "Tromsø" .
+
+<http://example.org/gf-protest-kg#1>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q106896> ;
+  schema:Country <http://www.wikidata.org/entity/Q189> ;
+  rdfs:label "Ísafjörður" .
+
+<http://example.org/gf-protest-kg#2>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1764> ;
+  schema:Country <http://www.wikidata.org/entity/Q189> ;
+  rdfs:label "Reykjavík" .
+
+<http://example.org/gf-protest-kg#3>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q25579> ;
+  schema:Country <http://www.wikidata.org/entity/Q34> ;
+  rdfs:label "Umeå" .
+
+<http://example.org/gf-protest-kg#4>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2061> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Yellowknife" .
+
+<http://example.org/gf-protest-kg#5>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2058> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Whitehorse" .
+
+<http://example.org/gf-protest-kg#6>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1757> ;
+  schema:Country <http://www.wikidata.org/entity/Q33> ;
+  rdfs:label "Helsinki" .
+
+<http://example.org/gf-protest-kg#7>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1770> ;
+  schema:Country <http://www.wikidata.org/entity/Q191> ;
+  rdfs:label "Tallinn" .
+
+<http://example.org/gf-protest-kg#8>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1754> ;
+  schema:Country <http://www.wikidata.org/entity/Q34> ;
+  rdfs:label "Stockholm" .
+
+<http://example.org/gf-protest-kg#9>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q26772254> ;
+  schema:Country <http://www.wikidata.org/entity/Q20> ;
+  rdfs:label "Kristiansand" .
+
+<http://example.org/gf-protest-kg#10>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q79804> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Sitka" .
+
+<http://example.org/gf-protest-kg#11>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q25410> ;
+  schema:Country <http://www.wikidata.org/entity/Q35> ;
+  rdfs:label "Aalborg" .
+
+<http://example.org/gf-protest-kg#12>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q25319> ;
+  schema:Country <http://www.wikidata.org/entity/Q35> ;
+  rdfs:label "Aarhus" .
+
+<http://example.org/gf-protest-kg#13>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q23436> ;
+  schema:Country <http://www.wikidata.org/entity/Q145> ;
+  rdfs:label "Edinburgh" .
+
+<http://example.org/gf-protest-kg#14>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1748> ;
+  schema:Country <http://www.wikidata.org/entity/Q35> ;
+  rdfs:label "Copenhagen" .
+
+<http://example.org/gf-protest-kg#15>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2211> ;
+  schema:Country <http://www.wikidata.org/entity/Q34> ;
+  rdfs:label "Malmö" .
+
+<http://example.org/gf-protest-kg#16>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q25331> ;
+  schema:Country <http://www.wikidata.org/entity/Q35> ;
+  rdfs:label "Odense" .
+
+<http://example.org/gf-protest-kg#17>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q163584> ;
+  schema:Country <http://www.wikidata.org/entity/Q145> ;
+  rdfs:label "Derry/Londonderry" .
+
+<http://example.org/gf-protest-kg#18>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1425428> ;
+  schema:Country <http://www.wikidata.org/entity/Q145> ;
+  rdfs:label "Newcastle-upon-Tyne" .
+
+<http://example.org/gf-protest-kg#19>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q216> ;
+  schema:Country <http://www.wikidata.org/entity/Q37> ;
+  rdfs:label "Vilnius" .
+
+<http://example.org/gf-protest-kg#20>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q171866> ;
+  schema:Country <http://www.wikidata.org/entity/Q145> ;
+  rdfs:label "Middlesbrough" .
+
+<http://example.org/gf-protest-kg#21>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1792> ;
+  schema:Country <http://www.wikidata.org/entity/Q36> ;
+  rdfs:label "Gdańsk" .
+
+<http://example.org/gf-protest-kg#22>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2861> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Rostock" .
+
+<http://example.org/gf-protest-kg#23>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q590205> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Prince George" .
+
+<http://example.org/gf-protest-kg#24>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q128147> ;
+  schema:Country <http://www.wikidata.org/entity/Q145> ;
+  rdfs:label "Kingston upon Hull" .
+
+<http://example.org/gf-protest-kg#25>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2706> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Bremerhaven" .
+
+<http://example.org/gf-protest-kg#26>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q129610> ;
+  schema:Country <http://www.wikidata.org/entity/Q27> ;
+  rdfs:label "Galway" .
+
+<http://example.org/gf-protest-kg#27>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q25390> ;
+  schema:Country <http://www.wikidata.org/entity/Q55> ;
+  rdfs:label "Leeuwarden" .
+
+<http://example.org/gf-protest-kg#28>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q41262> ;
+  schema:Country <http://www.wikidata.org/entity/Q145> ;
+  rdfs:label "Nottingham" .
+
+<http://example.org/gf-protest-kg#29>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q4225> ;
+  schema:Country <http://www.wikidata.org/entity/Q39> ;
+  rdfs:label "Emmen" .
+
+<http://example.org/gf-protest-kg#30>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q133315> ;
+  schema:Country <http://www.wikidata.org/entity/Q27> ;
+  rdfs:label "Limerick" .
+
+<http://example.org/gf-protest-kg#31>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q33445973> ;
+  schema:Country <http://www.wikidata.org/entity/Q55> ;
+  rdfs:label "Hoorn" .
+
+<http://example.org/gf-protest-kg#32>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q83065> ;
+  schema:Country <http://www.wikidata.org/entity/Q145> ;
+  rdfs:label "Leicester" .
+
+<http://example.org/gf-protest-kg#33>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q16977290> ;
+  schema:Country <http://www.wikidata.org/entity/Q55> ;
+  rdfs:label "Alkmaar" .
+
+<http://example.org/gf-protest-kg#34>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q126269> ;
+  schema:Country <http://www.wikidata.org/entity/Q145> ;
+  rdfs:label "Wolverhampton" .
+
+<http://example.org/gf-protest-kg#35>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q166065> ;
+  schema:Country <http://www.wikidata.org/entity/Q55> ;
+  rdfs:label "Lelystad" .
+
+<http://example.org/gf-protest-kg#36>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q6225> ;
+  schema:Country <http://www.wikidata.org/entity/Q145> ;
+  rdfs:label "Coventry" .
+
+<http://example.org/gf-protest-kg#37>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q9920> ;
+  schema:Country <http://www.wikidata.org/entity/Q55> ;
+  rdfs:label "Haarlem" .
+
+<http://example.org/gf-protest-kg#38>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1715> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Hannover" .
+
+<http://example.org/gf-protest-kg#39>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q83178> ;
+  schema:Country <http://www.wikidata.org/entity/Q55> ;
+  rdfs:label "Almere" .
+
+<http://example.org/gf-protest-kg#40>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2916> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Osnabrück" .
+
+<http://example.org/gf-protest-kg#41>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q23025> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Red Deer" .
+
+<http://example.org/gf-protest-kg#42>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q49186> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Northampton" .
+
+<http://example.org/gf-protest-kg#43>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3018561> ;
+  schema:Country <http://www.wikidata.org/entity/Q55> ;
+  rdfs:label "Apeldoorn" .
+
+<http://example.org/gf-protest-kg#44>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q33435365> ;
+  schema:Country <http://www.wikidata.org/entity/Q55> ;
+  rdfs:label "Enschede" .
+
+<http://example.org/gf-protest-kg#45>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q33456378> ;
+  schema:Country <http://www.wikidata.org/entity/Q55> ;
+  rdfs:label "Leiden" .
+
+<http://example.org/gf-protest-kg#46>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q109535> ;
+  schema:Country <http://www.wikidata.org/entity/Q55> ;
+  rdfs:label "Zutphen" .
+
+<http://example.org/gf-protest-kg#47>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q10566> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Saskatoon" .
+
+<http://example.org/gf-protest-kg#48>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1733> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Magdeburg" .
+
+<http://example.org/gf-protest-kg#49>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q39297398> ;
+  schema:Country <http://www.wikidata.org/entity/Q55> ;
+  rdfs:label "Utrecht" .
+
+<http://example.org/gf-protest-kg#50>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2473978> ;
+  schema:Country <http://www.wikidata.org/entity/Q55> ;
+  rdfs:label "Ede" .
+
+<http://example.org/gf-protest-kg#51>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q204234> ;
+  schema:Country <http://www.wikidata.org/entity/Q145> ;
+  rdfs:label "Milton Keynes" .
+
+<http://example.org/gf-protest-kg#52>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2112> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Bielefeld" .
+
+<http://example.org/gf-protest-kg#53>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q12269651> ;
+  schema:Country <http://www.wikidata.org/entity/Q55> ;
+  rdfs:label "Arnhem" .
+
+<http://example.org/gf-protest-kg#54>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q34370> ;
+  schema:Country <http://www.wikidata.org/entity/Q55> ;
+  rdfs:label "Rotterdam" .
+
+<http://example.org/gf-protest-kg#55>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q206988> ;
+  schema:Country <http://www.wikidata.org/entity/Q145> ;
+  rdfs:label "Cheltenham" .
+
+<http://example.org/gf-protest-kg#56>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q36647> ;
+  schema:Country <http://www.wikidata.org/entity/Q27> ;
+  rdfs:label "Cork" .
+
+<http://example.org/gf-protest-kg#57>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q575411> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Colchester" .
+
+<http://example.org/gf-protest-kg#58>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q4887565> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Luton" .
+
+<http://example.org/gf-protest-kg#59>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q13188714> ;
+  schema:Country <http://www.wikidata.org/entity/Q55> ;
+  rdfs:label "Nijmegen" .
+
+<http://example.org/gf-protest-kg#60>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q33433503> ;
+  schema:Country <http://www.wikidata.org/entity/Q55> ;
+  rdfs:label "Dordrecht" .
+
+<http://example.org/gf-protest-kg#61>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q210985> ;
+  schema:Country <http://www.wikidata.org/entity/Q145> ;
+  rdfs:label "Chelmsford" .
+
+<http://example.org/gf-protest-kg#62>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2971> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Paderborn" .
+
+<http://example.org/gf-protest-kg#63>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2766547> ;
+  schema:Country <http://www.wikidata.org/entity/Q55> ;
+  rdfs:label "'s-Hertogenbosch" .
+
+<http://example.org/gf-protest-kg#64>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3943> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Lippstadt" .
+
+<http://example.org/gf-protest-kg#65>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q200942> ;
+  schema:Country <http://www.wikidata.org/entity/Q145> ;
+  rdfs:label "Swindon" .
+
+<http://example.org/gf-protest-kg#66>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3033> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Göttingen" .
+
+<http://example.org/gf-protest-kg#67>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1295> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Dortmund" .
+
+<http://example.org/gf-protest-kg#68>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q211907> ;
+  schema:Country <http://www.wikidata.org/entity/Q145> ;
+  rdfs:label "Slough" .
+
+<http://example.org/gf-protest-kg#69>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q52101> ;
+  schema:Country <http://www.wikidata.org/entity/Q55> ;
+  rdfs:label "Middelburg" .
+
+<http://example.org/gf-protest-kg#70>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q10690> ;
+  schema:Country <http://www.wikidata.org/entity/Q145> ;
+  rdfs:label "Cardiff" .
+
+<http://example.org/gf-protest-kg#71>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2100> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Duisburg" .
+
+<http://example.org/gf-protest-kg#72>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q113464> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Chatham, Kent" .
+
+<http://example.org/gf-protest-kg#73>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2079> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Leipzig" .
+
+<http://example.org/gf-protest-kg#74>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2865> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Kassel" .
+
+<http://example.org/gf-protest-kg#75>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q29303> ;
+  schema:Country <http://www.wikidata.org/entity/Q145> ;
+  rdfs:label "Canterbury" .
+
+<http://example.org/gf-protest-kg#76>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q810196> ;
+  schema:Country <http://www.wikidata.org/entity/Q145> ;
+  rdfs:label "Basingstoke" .
+
+<http://example.org/gf-protest-kg#77>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q12996> ;
+  schema:Country <http://www.wikidata.org/entity/Q31> ;
+  rdfs:label "Ostend" .
+
+<http://example.org/gf-protest-kg#78>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1718> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Düsseldorf" .
+
+<http://example.org/gf-protest-kg#79>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q36312> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Calgary" .
+
+<http://example.org/gf-protest-kg#80>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3150> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Jena" .
+
+<http://example.org/gf-protest-kg#81>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q79848> ;
+  schema:Country <http://www.wikidata.org/entity/Q145> ;
+  rdfs:label "Southampton" .
+
+<http://example.org/gf-protest-kg#82>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2795> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Chemnitz" .
+
+<http://example.org/gf-protest-kg#83>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2152099> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Worthing" .
+
+<http://example.org/gf-protest-kg#84>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1017> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Aachen" .
+
+<http://example.org/gf-protest-kg#85>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q586> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Bonn" .
+
+<http://example.org/gf-protest-kg#86>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q170478> ;
+  schema:Country <http://www.wikidata.org/entity/Q145> ;
+  rdfs:label "Bournemouth" .
+
+<http://example.org/gf-protest-kg#87>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q473209> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Kamloops" .
+
+<http://example.org/gf-protest-kg#88>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q648> ;
+  schema:Country <http://www.wikidata.org/entity/Q142> ;
+  rdfs:label "Lille" .
+
+<http://example.org/gf-protest-kg#89>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3992> ;
+  schema:Country <http://www.wikidata.org/entity/Q31> ;
+  rdfs:label "Liège" .
+
+<http://example.org/gf-protest-kg#90>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q54195> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Weymouth" .
+
+<http://example.org/gf-protest-kg#91>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2123> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Regina" .
+
+<http://example.org/gf-protest-kg#92>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q141699> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Sept-Îles" .
+
+<http://example.org/gf-protest-kg#93>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1794> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Frankfurt am Main" .
+
+<http://example.org/gf-protest-kg#94>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1721> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Wiesbaden" .
+
+<http://example.org/gf-protest-kg#95>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q31487> ;
+  schema:Country <http://www.wikidata.org/entity/Q36> ;
+  rdfs:label "Kraków" .
+
+<http://example.org/gf-protest-kg#96>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q368241> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Medicine Hat" .
+
+<http://example.org/gf-protest-kg#97>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1720> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Mainz" .
+
+<http://example.org/gf-protest-kg#98>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3942> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Aschaffenburg" .
+
+<http://example.org/gf-protest-kg#99>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q232226> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Kelowna" .
+
+<http://example.org/gf-protest-kg#100>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2135> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Winnipeg" .
+
+<http://example.org/gf-protest-kg#101>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2999> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Würzburg" .
+
+<http://example.org/gf-protest-kg#102>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3138> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Trier" .
+
+<http://example.org/gf-protest-kg#103>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2054351> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Courtenay" .
+
+<http://example.org/gf-protest-kg#104>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q270887> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Lethbridge" .
+
+<http://example.org/gf-protest-kg#105>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1842> ;
+  schema:Country <http://www.wikidata.org/entity/Q32> ;
+  rdfs:label "Luxembourg City" .
+
+<http://example.org/gf-protest-kg#106>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1138837> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Cranbrook" .
+
+<http://example.org/gf-protest-kg#107>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2119> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Mannheim" .
+
+<http://example.org/gf-protest-kg#108>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1932445> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Guernsey" .
+
+<http://example.org/gf-protest-kg#109>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2090> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Nuremberg" .
+
+<http://example.org/gf-protest-kg#110>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3758> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Kaiserslautern" .
+
+<http://example.org/gf-protest-kg#111>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1724> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Saarbrücken" .
+
+<http://example.org/gf-protest-kg#112>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q16461> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Nanaimo" .
+
+<http://example.org/gf-protest-kg#113>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q983026> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Chilliwack" .
+
+<http://example.org/gf-protest-kg#114>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3806> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Tübingen" .
+
+<http://example.org/gf-protest-kg#115>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q483595> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Anacortes" .
+
+<http://example.org/gf-protest-kg#116>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1509671> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Omak" .
+
+<http://example.org/gf-protest-kg#117>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q26446> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Whitefish" .
+
+<http://example.org/gf-protest-kg#118>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q139229> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Saguenay" .
+
+<http://example.org/gf-protest-kg#119>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q34116> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Thunder Bay" .
+
+<http://example.org/gf-protest-kg#120>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2749> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Augsburg" .
+
+<http://example.org/gf-protest-kg#121>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q990977> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Oak Harbor" .
+
+<http://example.org/gf-protest-kg#122>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q853175> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Kalispell" .
+
+<http://example.org/gf-protest-kg#123>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1780> ;
+  schema:Country <http://www.wikidata.org/entity/Q214> ;
+  rdfs:label "Bratislava" .
+
+<http://example.org/gf-protest-kg#124>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q852584> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Port Angeles" .
+
+<http://example.org/gf-protest-kg#125>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1001828> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Port Townsend" .
+
+<http://example.org/gf-protest-kg#126>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1514115> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Sequim" .
+
+<http://example.org/gf-protest-kg#127>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1507935> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Lake Stevens" .
+
+<http://example.org/gf-protest-kg#128>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q226013> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Forks" .
+
+<http://example.org/gf-protest-kg#129>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1901226> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "East Grand Forks" .
+
+<http://example.org/gf-protest-kg#130>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1505974> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Snohomish" .
+
+<http://example.org/gf-protest-kg#131>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1507307> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Mukilteo" .
+
+<http://example.org/gf-protest-kg#132>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1055845> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Edmonds" .
+
+<http://example.org/gf-protest-kg#133>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1507087> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Mountlake Terrace" .
+
+<http://example.org/gf-protest-kg#134>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q983657> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Shoreline" .
+
+<http://example.org/gf-protest-kg#135>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1509552> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Poulsbo" .
+
+<http://example.org/gf-protest-kg#136>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q499681> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Coeur d'Alene" .
+
+<http://example.org/gf-protest-kg#137>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q187805> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Spokane" .
+
+<http://example.org/gf-protest-kg#138>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q695417> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Bremerton" .
+
+<http://example.org/gf-protest-kg#139>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q78> ;
+  schema:Country <http://www.wikidata.org/entity/Q39> ;
+  rdfs:label "Basel" .
+
+<http://example.org/gf-protest-kg#140>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1781> ;
+  schema:Country <http://www.wikidata.org/entity/Q28> ;
+  rdfs:label "Budapest" .
+
+<http://example.org/gf-protest-kg#141>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1510339> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Tukwila" .
+
+<http://example.org/gf-protest-kg#142>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q679952> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Renton" .
+
+<http://example.org/gf-protest-kg#143>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q730430> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Bemidji" .
+
+<http://example.org/gf-protest-kg#144>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q984825> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Burien" .
+
+<http://example.org/gf-protest-kg#145>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q958596> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Wenatchee" .
+
+<http://example.org/gf-protest-kg#146>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q821112> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Federal Way" .
+
+<http://example.org/gf-protest-kg#147>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q199797> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Tacoma" .
+
+<http://example.org/gf-protest-kg#148>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1065526> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Moses Lake" .
+
+<http://example.org/gf-protest-kg#149>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q42735> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Olympia" .
+
+<http://example.org/gf-protest-kg#150>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q868684> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Ellensburg" .
+
+<http://example.org/gf-protest-kg#151>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q69345> ;
+  schema:Country <http://www.wikidata.org/entity/Q39> ;
+  rdfs:label "Neuchâtel" .
+
+<http://example.org/gf-protest-kg#152>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1510424> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Yelm" .
+
+<http://example.org/gf-protest-kg#153>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q189602> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Missoula" .
+
+<http://example.org/gf-protest-kg#154>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2145> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Quebec City" .
+
+<http://example.org/gf-protest-kg#155>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q983540> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Pullman" .
+
+<http://example.org/gf-protest-kg#156>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q249441> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Chehalis" .
+
+<http://example.org/gf-protest-kg#157>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q947107> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Selah" .
+
+<http://example.org/gf-protest-kg#158>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q499203> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Yakima" .
+
+<http://example.org/gf-protest-kg#159>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q807> ;
+  schema:Country <http://www.wikidata.org/entity/Q39> ;
+  rdfs:label "Lausanne" .
+
+<http://example.org/gf-protest-kg#160>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q383434> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Sudbury" .
+
+<http://example.org/gf-protest-kg#161>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q44012> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Trois-Rivières" .
+
+<http://example.org/gf-protest-kg#162>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q844016> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Pasco" .
+
+<http://example.org/gf-protest-kg#163>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2127> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Charlottetown" .
+
+<http://example.org/gf-protest-kg#164>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q490724> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Astoria" .
+
+<http://example.org/gf-protest-kg#165>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q457334> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Moncton" .
+
+<http://example.org/gf-protest-kg#166>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q222338> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Walla Walla" .
+
+<http://example.org/gf-protest-kg#167>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2138> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Fredericton" .
+
+<http://example.org/gf-protest-kg#168>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1308> ;
+  schema:Country <http://www.wikidata.org/entity/Q38> ;
+  rdfs:label "Como" .
+
+<http://example.org/gf-protest-kg#169>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1435> ;
+  schema:Country <http://www.wikidata.org/entity/Q224> ;
+  rdfs:label "Zagreb" .
+
+<http://example.org/gf-protest-kg#170>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1505990> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Ridgefield" .
+
+<http://example.org/gf-protest-kg#171>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q456> ;
+  schema:Country <http://www.wikidata.org/entity/Q142> ;
+  rdfs:label "Lyon" .
+
+<http://example.org/gf-protest-kg#172>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q628> ;
+  schema:Country <http://www.wikidata.org/entity/Q38> ;
+  rdfs:label "Bergamo" .
+
+<http://example.org/gf-protest-kg#173>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q944507> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Pendleton" .
+
+<http://example.org/gf-protest-kg#174>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q569678> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Bozeman" .
+
+<http://example.org/gf-protest-kg#175>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3448655> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Forest Grove" .
+
+<http://example.org/gf-protest-kg#176>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1778806> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Happy Valley" .
+
+<http://example.org/gf-protest-kg#177>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q139473> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Sherbrooke" .
+
+<http://example.org/gf-protest-kg#178>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1762839> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Tualatin" .
+
+<http://example.org/gf-protest-kg#179>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q956690> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Cornwall" .
+
+<http://example.org/gf-protest-kg#180>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q998675> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Wausau" .
+
+<http://example.org/gf-protest-kg#181>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1928585> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Massena" .
+
+<http://example.org/gf-protest-kg#182>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q122563> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Eau Claire" .
+
+<http://example.org/gf-protest-kg#183>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q984544> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Traverse City" .
+
+<http://example.org/gf-protest-kg#184>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q684406> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Ogdensburg" .
+
+<http://example.org/gf-protest-kg#185>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q13360> ;
+  schema:Country <http://www.wikidata.org/entity/Q38> ;
+  rdfs:label "Reggio Emilia" .
+
+<http://example.org/gf-protest-kg#186>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q998669> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Plattsburgh" .
+
+<http://example.org/gf-protest-kg#187>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1711> ;
+  schema:Country <http://www.wikidata.org/entity/Q183> ;
+  rdfs:label "Potsdam" .
+
+<http://example.org/gf-protest-kg#188>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2141> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Halifax" .
+
+<http://example.org/gf-protest-kg#189>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q279> ;
+  schema:Country <http://www.wikidata.org/entity/Q38> ;
+  rdfs:label "Modena" .
+
+<http://example.org/gf-protest-kg#190>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q748474> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Corvallis" .
+
+<http://example.org/gf-protest-kg#191>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q916603> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Cody" .
+
+<http://example.org/gf-protest-kg#192>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q47430> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Green Bay" .
+
+<http://example.org/gf-protest-kg#193>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1891> ;
+  schema:Country <http://www.wikidata.org/entity/Q38> ;
+  rdfs:label "Bologna" .
+
+<http://example.org/gf-protest-kg#194>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q330678> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Prineville" .
+
+<http://example.org/gf-protest-kg#195>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q919040> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Gillette" .
+
+<http://example.org/gf-protest-kg#196>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q853577> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Owatonna" .
+
+<http://example.org/gf-protest-kg#197>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q213325> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Rapid City" .
+
+<http://example.org/gf-protest-kg#198>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q171224> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Eugene" .
+
+<http://example.org/gf-protest-kg#199>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q671288> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Bend" .
+
+<http://example.org/gf-protest-kg#200>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q211867> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Oshawa" .
+
+<http://example.org/gf-protest-kg#201>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q818311> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Rexburg" .
+
+<http://example.org/gf-protest-kg#202>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q628503> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Bad Axe" .
+
+<http://example.org/gf-protest-kg#203>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q913476> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Albert Lea" .
+
+<http://example.org/gf-protest-kg#204>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1000166> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "South Portland" .
+
+<http://example.org/gf-protest-kg#205>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3415> ;
+  schema:Country <http://www.wikidata.org/entity/Q38> ;
+  rdfs:label "Ancona" .
+
+<http://example.org/gf-protest-kg#206>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q35775> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Boise" .
+
+<http://example.org/gf-protest-kg#207>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q6441> ;
+  schema:Country <http://www.wikidata.org/entity/Q142> ;
+  rdfs:label "Montpellier" .
+
+<http://example.org/gf-protest-kg#208>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q7880> ;
+  schema:Country <http://www.wikidata.org/entity/Q142> ;
+  rdfs:label "Toulouse" .
+
+<http://example.org/gf-protest-kg#209>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q50816> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Mississauga" .
+
+<http://example.org/gf-protest-kg#210>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q131335> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Sioux Falls" .
+
+<http://example.org/gf-protest-kg#211>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q6761> ;
+  schema:Country <http://www.wikidata.org/entity/Q38> ;
+  rdfs:label "Livorno" .
+
+<http://example.org/gf-protest-kg#212>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q200166> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Kitchener" .
+
+<http://example.org/gf-protest-kg#213>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1781710> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Decorah" .
+
+<http://example.org/gf-protest-kg#214>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q35493> ;
+  schema:Country <http://www.wikidata.org/entity/Q232> ;
+  rdfs:label "Almaty" .
+
+<http://example.org/gf-protest-kg#215>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3437> ;
+  schema:Country <http://www.wikidata.org/entity/Q38> ;
+  rdfs:label "Perugia" .
+
+<http://example.org/gf-protest-kg#216>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2567178> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Shorewood" .
+
+<http://example.org/gf-protest-kg#217>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q37836> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Milwaukee" .
+
+<http://example.org/gf-protest-kg#218>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1380511> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Gloversville" .
+
+<http://example.org/gf-protest-kg#219>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q490584> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Flint" .
+
+<http://example.org/gf-protest-kg#220>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1000222> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Port Huron" .
+
+<http://example.org/gf-protest-kg#221>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1363104> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Canandaigua" .
+
+<http://example.org/gf-protest-kg#222>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q320729> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Pocatello" .
+
+<http://example.org/gf-protest-kg#223>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3709610> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Clifton Park" .
+
+<http://example.org/gf-protest-kg#224>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q223177> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Casper" .
+
+<http://example.org/gf-protest-kg#225>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q331380> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Schenectady" .
+
+<http://example.org/gf-protest-kg#226>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q54134> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Newburyport" .
+
+<http://example.org/gf-protest-kg#227>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q871265> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "East Lansing" .
+
+<http://example.org/gf-protest-kg#228>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1999157> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Cooperstown" .
+
+<http://example.org/gf-protest-kg#229>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q472> ;
+  schema:Country <http://www.wikidata.org/entity/Q219> ;
+  rdfs:label "Sofia" .
+
+<http://example.org/gf-protest-kg#230>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q79441> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Homer" .
+
+<http://example.org/gf-protest-kg#231>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q462161> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Kenosha" .
+
+<http://example.org/gf-protest-kg#232>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q927243> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Sterling Heights" .
+
+<http://example.org/gf-protest-kg#233>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q548384> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Twin Falls" .
+
+<http://example.org/gf-protest-kg#234>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1863> ;
+  schema:Country <http://www.wikidata.org/entity/Q228> ;
+  rdfs:label "Andorra la Vella" .
+
+<http://example.org/gf-protest-kg#235>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q493794> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Dubuque" .
+
+<http://example.org/gf-protest-kg#236>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q489255> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Sioux City" .
+
+<http://example.org/gf-protest-kg#237>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q49188> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Lynn" .
+
+<http://example.org/gf-protest-kg#238>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2704> ;
+  schema:Country <http://www.wikidata.org/entity/Q38> ;
+  rdfs:label "Pescara" .
+
+<http://example.org/gf-protest-kg#239>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q143405> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Grants Pass" .
+
+<http://example.org/gf-protest-kg#240>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q23564> ;
+  schema:Country <http://www.wikidata.org/entity/Q236> ;
+  rdfs:label "Podgorica" .
+
+<http://example.org/gf-protest-kg#241>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3476> ;
+  schema:Country <http://www.wikidata.org/entity/Q38> ;
+  rdfs:label "L'Aquila" .
+
+<http://example.org/gf-protest-kg#242>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1378011> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Hornell" .
+
+<http://example.org/gf-protest-kg#243>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q49186> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Northampton" .
+
+<http://example.org/gf-protest-kg#244>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q167155> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Kalamazoo" .
+
+<http://example.org/gf-protest-kg#245>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q485172> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Ann Arbor" .
+
+<http://example.org/gf-protest-kg#246>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q795403> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Allen Park" .
+
+<http://example.org/gf-protest-kg#247>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1021681> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Ypsilanti" .
+
+<http://example.org/gf-protest-kg#248>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1642036> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Lincoln Park" .
+
+<http://example.org/gf-protest-kg#249>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q846146> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Klamath Falls" .
+
+<http://example.org/gf-protest-kg#250>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1650454> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Chicopee" .
+
+<http://example.org/gf-protest-kg#251>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1570402> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Stoughton" .
+
+<http://example.org/gf-protest-kg#252>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q934135> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Elmira" .
+
+<http://example.org/gf-protest-kg#253>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q213814> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Binghamton" .
+
+<http://example.org/gf-protest-kg#254>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q630963> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Olean" .
+
+<http://example.org/gf-protest-kg#255>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q49193> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Brockton" .
+
+<http://example.org/gf-protest-kg#256>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q486439> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Cedar Rapids" .
+
+<http://example.org/gf-protest-kg#257>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q7038> ;
+  schema:Country <http://www.wikidata.org/entity/Q29> ;
+  rdfs:label "Girona" .
+
+<http://example.org/gf-protest-kg#258>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q243007> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Naperville" .
+
+<http://example.org/gf-protest-kg#259>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q178093> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Poughkeepsie" .
+
+<http://example.org/gf-protest-kg#260>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q808535> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Barnstable" .
+
+<http://example.org/gf-protest-kg#261>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q487977> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Iowa City" .
+
+<http://example.org/gf-protest-kg#262>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q15090> ;
+  schema:Country <http://www.wikidata.org/entity/Q29> ;
+  rdfs:label "Lleida" .
+
+<http://example.org/gf-protest-kg#263>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q49178> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Waterbury" .
+
+<http://example.org/gf-protest-kg#264>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q40345> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Joliet" .
+
+<http://example.org/gf-protest-kg#265>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1044808> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Newburgh" .
+
+<http://example.org/gf-protest-kg#266>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q994> ;
+  schema:Country <http://www.wikidata.org/entity/Q230> ;
+  rdfs:label "Tbilisi" .
+
+<http://example.org/gf-protest-kg#267>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q956690> ;
+  schema:Country <http://www.wikidata.org/entity/Q16> ;
+  rdfs:label "Cornwall" .
+
+<http://example.org/gf-protest-kg#268>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q932561> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Elyria" .
+
+<http://example.org/gf-protest-kg#269>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q976675> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Port Jervis" .
+
+<http://example.org/gf-protest-kg#270>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q577923> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "LaSalle" .
+
+<http://example.org/gf-protest-kg#271>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3245483> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Groton" .
+
+<http://example.org/gf-protest-kg#272>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1925334> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Somers" .
+
+<http://example.org/gf-protest-kg#273>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q876191> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Peekskill" .
+
+<http://example.org/gf-protest-kg#274>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q327515> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Laramie" .
+
+<http://example.org/gf-protest-kg#275>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1016159> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Williamsport" .
+
+<http://example.org/gf-protest-kg#276>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q745594> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Wilkes-Barre" .
+
+<http://example.org/gf-protest-kg#277>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1130475> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Farrell" .
+
+<http://example.org/gf-protest-kg#278>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q548653> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Clarion" .
+
+<http://example.org/gf-protest-kg#279>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q36433> ;
+  schema:Country <http://www.wikidata.org/entity/Q45> ;
+  rdfs:label "Porto" .
+
+<http://example.org/gf-protest-kg#280>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q989960> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "North Platte" .
+
+<http://example.org/gf-protest-kg#281>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3519> ;
+  schema:Country <http://www.wikidata.org/entity/Q38> ;
+  rdfs:label "Bari" .
+
+<http://example.org/gf-protest-kg#282>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q216820> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Youngstown" .
+
+<http://example.org/gf-protest-kg#283>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2801332> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Tarrytown" .
+
+<http://example.org/gf-protest-kg#284>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q49268> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Fort Wayne" .
+
+<http://example.org/gf-protest-kg#285>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q853566> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Ottumwa" .
+
+<http://example.org/gf-protest-kg#286>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1379757> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Rye" .
+
+<http://example.org/gf-protest-kg#287>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q128114> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Yonkers" .
+
+<http://example.org/gf-protest-kg#288>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q461826> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Grand Island" .
+
+<http://example.org/gf-protest-kg#289>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q138391> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Paterson" .
+
+<http://example.org/gf-protest-kg#290>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q744948> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "New Rochelle" .
+
+<http://example.org/gf-protest-kg#291>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q631752> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Arcata" .
+
+<http://example.org/gf-protest-kg#292>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q520620> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Inwood" .
+
+<http://example.org/gf-protest-kg#293>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q945084> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Elko" .
+
+<http://example.org/gf-protest-kg#294>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q989567> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Wooster" .
+
+<http://example.org/gf-protest-kg#295>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q980988> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "West Orange" .
+
+<http://example.org/gf-protest-kg#296>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q23337> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Salt Lake City" .
+
+<http://example.org/gf-protest-kg#297>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q490724> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Astoria" .
+
+<http://example.org/gf-protest-kg#298>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q984177> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Woodside" .
+
+<http://example.org/gf-protest-kg#299>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q982367> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Mineola" .
+
+<http://example.org/gf-protest-kg#300>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q26339> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Jersey City" .
+
+<http://example.org/gf-protest-kg#301>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q970412> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Hempstead" .
+
+<http://example.org/gf-protest-kg#302>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1022993> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Phillipsburg" .
+
+<http://example.org/gf-protest-kg#303>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q142811> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Allentown" .
+
+<http://example.org/gf-protest-kg#304>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q490732> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Fort Collins" .
+
+<http://example.org/gf-protest-kg#305>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q482937> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Tooele" .
+
+<http://example.org/gf-protest-kg#306>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2700555> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Edison" .
+
+<http://example.org/gf-protest-kg#307>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2673534> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Flemington" .
+
+<http://example.org/gf-protest-kg#308>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q985592> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Perth Amboy" .
+
+<http://example.org/gf-protest-kg#309>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q913209> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Kokomo" .
+
+<http://example.org/gf-protest-kg#310>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q138338> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "New Brunswick" .
+
+<http://example.org/gf-protest-kg#311>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1342> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Pittsburgh" .
+
+<http://example.org/gf-protest-kg#312>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1086436> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Lambertville" .
+
+<http://example.org/gf-protest-kg#313>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2272529> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Red Bank" .
+
+<http://example.org/gf-protest-kg#314>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q969307> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Latrobe" .
+
+<http://example.org/gf-protest-kg#315>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q995231> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Long Branch" .
+
+<http://example.org/gf-protest-kg#316>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q23443> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Provo" .
+
+<http://example.org/gf-protest-kg#317>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q201127> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Asbury Park" .
+
+<http://example.org/gf-protest-kg#318>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q932981> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Muncie" .
+
+<http://example.org/gf-protest-kg#319>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q546468> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Red Bluff" .
+
+<http://example.org/gf-protest-kg#320>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1089251> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Bordentown" .
+
+<http://example.org/gf-protest-kg#321>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q577964> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Champaign" .
+
+<http://example.org/gf-protest-kg#322>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1133193> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Coatesville" .
+
+<http://example.org/gf-protest-kg#323>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2170551> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "West Chester" .
+
+<http://example.org/gf-protest-kg#324>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q146811> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Zanesville" .
+
+<http://example.org/gf-protest-kg#325>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2176578> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Gettysburg" .
+
+<http://example.org/gf-protest-kg#326>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q6346> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Indianapolis" .
+
+<http://example.org/gf-protest-kg#327>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q432152> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Chico" .
+
+<http://example.org/gf-protest-kg#328>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q755559> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Hagerstown" .
+
+<http://example.org/gf-protest-kg#329>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q985524> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Fallon" .
+
+<http://example.org/gf-protest-kg#330>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q492478> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Terre Haute" .
+
+<http://example.org/gf-protest-kg#331>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q579180> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Fort Bragg" .
+
+<http://example.org/gf-protest-kg#332>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q139564> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Atlantic City" .
+
+<http://example.org/gf-protest-kg#333>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1084242> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Somers Point" .
+
+<http://example.org/gf-protest-kg#334>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q5092> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Baltimore" .
+
+<http://example.org/gf-protest-kg#335>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1017603> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Ocean City" .
+
+<http://example.org/gf-protest-kg#336>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q856841> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Manhattan" .
+
+<http://example.org/gf-protest-kg#337>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q41057> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Topeka" .
+
+<http://example.org/gf-protest-kg#338>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2477380> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Elsmere" .
+
+<http://example.org/gf-protest-kg#339>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q49258> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Colorado Springs" .
+
+<http://example.org/gf-protest-kg#340>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q755106> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Rehoboth Beach" .
+
+<http://example.org/gf-protest-kg#341>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q984155> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Folsom" .
+
+<http://example.org/gf-protest-kg#342>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q755663> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Seaford" .
+
+<http://example.org/gf-protest-kg#343>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q511935> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Harrisonburg" .
+
+<http://example.org/gf-protest-kg#344>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q850823> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Vacaville" .
+
+<http://example.org/gf-protest-kg#345>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q11592> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Sonoma" .
+
+<http://example.org/gf-protest-kg#346>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q60537> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Napa" .
+
+<http://example.org/gf-protest-kg#347>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q720087> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Petaluma" .
+
+<http://example.org/gf-protest-kg#348>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q675576> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Pueblo" .
+
+<http://example.org/gf-protest-kg#349>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1904491> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Morehead" .
+
+<http://example.org/gf-protest-kg#350>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q208445> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Vallejo" .
+
+<http://example.org/gf-protest-kg#351>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q493261> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Walnut Creek" .
+
+<http://example.org/gf-protest-kg#352>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q49266> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Wichita" .
+
+<http://example.org/gf-protest-kg#353>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q487212> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Cedar City" .
+
+<http://example.org/gf-protest-kg#354>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q204561> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Modesto" .
+
+<http://example.org/gf-protest-kg#355>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q8684> ;
+  schema:Country <http://www.wikidata.org/entity/Q884> ;
+  rdfs:label "Seoul" .
+
+<http://example.org/gf-protest-kg#356>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q505549> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Redwood City" .
+
+<http://example.org/gf-protest-kg#357>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q988697> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "East Palo Alto" .
+
+<http://example.org/gf-protest-kg#358>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q74195> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Menlo Park" .
+
+<http://example.org/gf-protest-kg#359>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q47265> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Palo Alto" .
+
+<http://example.org/gf-protest-kg#360>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q866294> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Cape Girardeau" .
+
+<http://example.org/gf-protest-kg#361>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q317865> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Joplin" .
+
+<http://example.org/gf-protest-kg#362>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q984377> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Paducah" .
+
+<http://example.org/gf-protest-kg#363>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q590932> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Los Banos" .
+
+<http://example.org/gf-protest-kg#364>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q996804> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Coffeyville" .
+
+<http://example.org/gf-protest-kg#365>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q851000> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Madera" .
+
+<http://example.org/gf-protest-kg#366>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q913543> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Watsonville" .
+
+<http://example.org/gf-protest-kg#367>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q845461> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Hopkinsville" .
+
+<http://example.org/gf-protest-kg#368>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q49259> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Virginia Beach" .
+
+<http://example.org/gf-protest-kg#369>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3572> ;
+  schema:Country <http://www.wikidata.org/entity/Q948> ;
+  rdfs:label "Tunis" .
+
+<http://example.org/gf-protest-kg#370>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q49222> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Chesapeake" .
+
+<http://example.org/gf-protest-kg#371>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q43301> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Fresno" .
+
+<http://example.org/gf-protest-kg#372>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q342428> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Suffolk" .
+
+<http://example.org/gf-protest-kg#373>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q818364> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Bentonville" .
+
+<http://example.org/gf-protest-kg#374>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q495373> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Visalia" .
+
+<http://example.org/gf-protest-kg#375>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q143782> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "North Las Vegas" .
+
+<http://example.org/gf-protest-kg#376>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1898112> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Boone" .
+
+<http://example.org/gf-protest-kg#377>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q44989> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Tulsa" .
+
+<http://example.org/gf-protest-kg#378>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q49227> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Winston-Salem" .
+
+<http://example.org/gf-protest-kg#379>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q835810> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Broken Arrow" .
+
+<http://example.org/gf-protest-kg#380>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q858801> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Boulder City" .
+
+<http://example.org/gf-protest-kg#381>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q631194> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "High Point" .
+
+<http://example.org/gf-protest-kg#382>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q736586> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Burnsville" .
+
+<http://example.org/gf-protest-kg#383>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q41087> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Raleigh" .
+
+<http://example.org/gf-protest-kg#384>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q524233> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Muskogee" .
+
+<http://example.org/gf-protest-kg#385>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q586528> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Paso Robles" .
+
+<http://example.org/gf-protest-kg#386>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q648501> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Asheville" .
+
+<http://example.org/gf-protest-kg#387>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q577981> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Gallup" .
+
+<http://example.org/gf-protest-kg#388>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q34863> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Oklahoma City" .
+
+<http://example.org/gf-protest-kg#389>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q79535> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Fort Smith" .
+
+<http://example.org/gf-protest-kg#390>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q49256> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Bakersfield" .
+
+<http://example.org/gf-protest-kg#391>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1019682> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Dunn" .
+
+<http://example.org/gf-protest-kg#392>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q49012> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "San Luis Obispo" .
+
+<http://example.org/gf-protest-kg#393>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q33555> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Rio Rancho" .
+
+<http://example.org/gf-protest-kg#394>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q51691> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Amarillo" .
+
+<http://example.org/gf-protest-kg#395>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q40347> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Norman" .
+
+<http://example.org/gf-protest-kg#396>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q79842> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Flagstaff" .
+
+<http://example.org/gf-protest-kg#397>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q11751> ;
+  schema:Country <http://www.wikidata.org/entity/Q17> ;
+  rdfs:label "Nagoya" .
+
+<http://example.org/gf-protest-kg#398>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3856> ;
+  schema:Country <http://www.wikidata.org/entity/Q229> ;
+  rdfs:label "Nicosia" .
+
+<http://example.org/gf-protest-kg#399>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q34804> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Albuquerque" .
+
+<http://example.org/gf-protest-kg#400>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q186702> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Chattanooga" .
+
+<http://example.org/gf-protest-kg#401>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q79423> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Cabot" .
+
+<http://example.org/gf-protest-kg#402>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q852704> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Lompoc" .
+
+<http://example.org/gf-protest-kg#403>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q822559> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Solvang" .
+
+<http://example.org/gf-protest-kg#404>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q488940> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Palmdale" .
+
+<http://example.org/gf-protest-kg#405>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q495353> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Victorville" .
+
+<http://example.org/gf-protest-kg#406>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q79435> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Lake Havasu City" .
+
+<http://example.org/gf-protest-kg#407>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q491132> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Santa Clarita" .
+
+<http://example.org/gf-protest-kg#408>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q323414> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Simi Valley" .
+
+<http://example.org/gf-protest-kg#409>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q667727> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Tupelo" .
+
+<http://example.org/gf-protest-kg#410>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1011181> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "La Cañada Flintridge" .
+
+<http://example.org/gf-protest-kg#411>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q80012> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Pine Bluff" .
+
+<http://example.org/gf-protest-kg#412>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q209338> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Oxnard" .
+
+<http://example.org/gf-protest-kg#413>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q208447> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Thousand Oaks" .
+
+<http://example.org/gf-protest-kg#414>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q174026> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Sierra Madre" .
+
+<http://example.org/gf-protest-kg#415>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q932346> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Cartersville" .
+
+<http://example.org/gf-protest-kg#416>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q629088> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Calabasas" .
+
+<http://example.org/gf-protest-kg#417>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q851041> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Glendora" .
+
+<http://example.org/gf-protest-kg#418>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q495365> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Rancho Cucamonga" .
+
+<http://example.org/gf-protest-kg#419>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q985347> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "La Verne" .
+
+<http://example.org/gf-protest-kg#420>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q486168> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "San Bernardino" .
+
+<http://example.org/gf-protest-kg#421>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q846421> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "West Hollywood" .
+
+<http://example.org/gf-protest-kg#422>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q838782> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Covina" .
+
+<http://example.org/gf-protest-kg#423>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q752681> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Alhambra" .
+
+<http://example.org/gf-protest-kg#424>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q494728> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "West Covina" .
+
+<http://example.org/gf-protest-kg#425>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q753830> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Redlands" .
+
+<http://example.org/gf-protest-kg#426>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q387047> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Malibu" .
+
+<http://example.org/gf-protest-kg#427>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q475724> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "La Puente" .
+
+<http://example.org/gf-protest-kg#428>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1001316> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Kennesaw" .
+
+<http://example.org/gf-protest-kg#429>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q47164> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Santa Monica" .
+
+<http://example.org/gf-protest-kg#430>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q493378> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Culver City" .
+
+<http://example.org/gf-protest-kg#431>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q664503> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Montebello" .
+
+<http://example.org/gf-protest-kg#432>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q768449> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Diamond Bar" .
+
+<http://example.org/gf-protest-kg#433>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q852721> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Chino Hills" .
+
+<http://example.org/gf-protest-kg#434>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q948071> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "La Habra" .
+
+<http://example.org/gf-protest-kg#435>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q850929> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "La Mesa" .
+
+<http://example.org/gf-protest-kg#436>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q914884> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Sandy Springs" .
+
+<http://example.org/gf-protest-kg#437>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1010203> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Sumter" .
+
+<http://example.org/gf-protest-kg#438>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q128349> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Wichita Falls" .
+
+<http://example.org/gf-protest-kg#439>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q487119> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Compton" .
+
+<http://example.org/gf-protest-kg#440>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q575316> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Cerritos" .
+
+<http://example.org/gf-protest-kg#441>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q494707> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Corona" .
+
+<http://example.org/gf-protest-kg#442>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q840678> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Redondo Beach" .
+
+<http://example.org/gf-protest-kg#443>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q489197> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Torrance" .
+
+<http://example.org/gf-protest-kg#444>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q49247> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Anaheim" .
+
+<http://example.org/gf-protest-kg#445>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q488004> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Palm Springs" .
+
+<http://example.org/gf-protest-kg#446>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q948149> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Palos Verdes Estates" .
+
+<http://example.org/gf-protest-kg#447>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q180226> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Rancho Palos Verdes" .
+
+<http://example.org/gf-protest-kg#448>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q948188> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Hemet" .
+
+<http://example.org/gf-protest-kg#449>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q506446> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Rancho Mirage" .
+
+<http://example.org/gf-protest-kg#450>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q399976> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Palm Desert" .
+
+<http://example.org/gf-protest-kg#451>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q983614> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "La Quinta" .
+
+<http://example.org/gf-protest-kg#452>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q839805> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Myrtle Beach" .
+
+<http://example.org/gf-protest-kg#453>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q5917> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Huntington Beach" .
+
+<http://example.org/gf-protest-kg#454>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q268873> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Newport Beach" .
+
+<http://example.org/gf-protest-kg#455>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q51687> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Surprise" .
+
+<http://example.org/gf-protest-kg#456>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q26600> ;
+  schema:Country <http://www.wikidata.org/entity/Q17> ;
+  rdfs:label "Fukuoka" .
+
+<http://example.org/gf-protest-kg#457>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q948231> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Aliso Viejo" .
+
+<http://example.org/gf-protest-kg#458>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q49273> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Lubbock" .
+
+<http://example.org/gf-protest-kg#459>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1908566> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Laguna Beach" .
+
+<http://example.org/gf-protest-kg#460>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q838785> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Temecula" .
+
+<http://example.org/gf-protest-kg#461>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q49221> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Scottsdale" .
+
+<http://example.org/gf-protest-kg#462>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q852638> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Dana Point" .
+
+<http://example.org/gf-protest-kg#463>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q770470> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Starkville" .
+
+<http://example.org/gf-protest-kg#464>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q51685> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Tempe" .
+
+<http://example.org/gf-protest-kg#465>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q79950> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Hoover" .
+
+<http://example.org/gf-protest-kg#466>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q79580> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Tuscaloosa" .
+
+<http://example.org/gf-protest-kg#467>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q488924> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Oceanside" .
+
+<http://example.org/gf-protest-kg#468>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q51697> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "McKinney" .
+
+<http://example.org/gf-protest-kg#469>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q372454> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Escondido" .
+
+<http://example.org/gf-protest-kg#470>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2415219> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Ramona" .
+
+<http://example.org/gf-protest-kg#471>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q532711> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Encinitas" .
+
+<http://example.org/gf-protest-kg#472>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q383278> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Solana Beach" .
+
+<http://example.org/gf-protest-kg#473>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q540727> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Poway" .
+
+<http://example.org/gf-protest-kg#474>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q973729> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Southlake" .
+
+<http://example.org/gf-protest-kg#475>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q26485> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Keller" .
+
+<http://example.org/gf-protest-kg#476>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q847538> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "North Charleston" .
+
+<http://example.org/gf-protest-kg#477>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q79889> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Casa Grande" .
+
+<http://example.org/gf-protest-kg#478>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q923799> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Santee" .
+
+<http://example.org/gf-protest-kg#479>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q41621> ;
+  schema:Country <http://www.wikidata.org/entity/Q801> ;
+  rdfs:label "Haifa" .
+
+<http://example.org/gf-protest-kg#480>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q495369> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "El Centro" .
+
+<http://example.org/gf-protest-kg#481>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q16558> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Fort Worth" .
+
+<http://example.org/gf-protest-kg#482>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q828753> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Coronado" .
+
+<http://example.org/gf-protest-kg#483>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q430316> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "National City" .
+
+<http://example.org/gf-protest-kg#484>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q753034> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Calexico" .
+
+<http://example.org/gf-protest-kg#485>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q49270> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Chula Vista" .
+
+<http://example.org/gf-protest-kg#486>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q80517> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Shreveport" .
+
+<http://example.org/gf-protest-kg#487>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q988919> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Statesboro" .
+
+<http://example.org/gf-protest-kg#488>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q33264> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Las Cruces" .
+
+<http://example.org/gf-protest-kg#489>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q18575> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Tucson" .
+
+<http://example.org/gf-protest-kg#490>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q33935> ;
+  schema:Country <http://www.wikidata.org/entity/Q801> ;
+  rdfs:label "Tel Aviv" .
+
+<http://example.org/gf-protest-kg#491>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1994691> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Hinesville" .
+
+<http://example.org/gf-protest-kg#492>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1218> ;
+  schema:Country <http://www.wikidata.org/entity/Q801> ;
+  rdfs:label "Jerusalem" .
+
+<http://example.org/gf-protest-kg#493>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q925598> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "San Angelo" .
+
+<http://example.org/gf-protest-kg#494>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q892242> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Petal" .
+
+<http://example.org/gf-protest-kg#495>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q79875> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Mobile" .
+
+<http://example.org/gf-protest-kg#496>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q28218> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Baton Rouge" .
+
+<http://example.org/gf-protest-kg#497>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q37043> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Tallahassee" .
+
+<http://example.org/gf-protest-kg#498>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q486306> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Pensacola" .
+
+<http://example.org/gf-protest-kg#499>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q490720> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Biloxi" .
+
+<http://example.org/gf-protest-kg#500>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q984368> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Fort Walton Beach" .
+
+<http://example.org/gf-protest-kg#501>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q864106> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Lake Charles" .
+
+<http://example.org/gf-protest-kg#502>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1014704> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Vidor" .
+
+<http://example.org/gf-protest-kg#503>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q34404> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "New Orleans" .
+
+<http://example.org/gf-protest-kg#504>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q812646> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Baytown" .
+
+<http://example.org/gf-protest-kg#505>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q574612> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "New Braunfels" .
+
+<http://example.org/gf-protest-kg#506>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q610463> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Palm Coast" .
+
+<http://example.org/gf-protest-kg#507>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q135744> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Galveston" .
+
+<http://example.org/gf-protest-kg#508>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q490595> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Daytona Beach" .
+
+<http://example.org/gf-protest-kg#509>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q985301> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Port Orange" .
+
+<http://example.org/gf-protest-kg#510>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q988934> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Deland" .
+
+<http://example.org/gf-protest-kg#511>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2152032> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Temple Terrace" .
+
+<http://example.org/gf-protest-kg#512>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q49242> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Corpus Christi" .
+
+<http://example.org/gf-protest-kg#513>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q491540> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Sarasota" .
+
+<http://example.org/gf-protest-kg#514>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q667749> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Port St. Lucie" .
+
+<http://example.org/gf-protest-kg#515>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q163749> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "West Palm Beach" .
+
+<http://example.org/gf-protest-kg#516>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q462789> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Cape Coral" .
+
+<http://example.org/gf-protest-kg#517>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q506451> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Fort Myers" .
+
+<http://example.org/gf-protest-kg#518>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q984358> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Lake Worth Beach" .
+
+<http://example.org/gf-protest-kg#519>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q29422> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Boca Raton" .
+
+<http://example.org/gf-protest-kg#520>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q892635> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Bonita Springs" .
+
+<http://example.org/gf-protest-kg#521>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q505557> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Coral Springs" .
+
+<http://example.org/gf-protest-kg#522>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q51698> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "McAllen" .
+
+<http://example.org/gf-protest-kg#523>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q506375> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Sunrise" .
+
+<http://example.org/gf-protest-kg#524>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q165972> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Fort Lauderdale" .
+
+<http://example.org/gf-protest-kg#525>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q427559> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Coral Gables" .
+
+<http://example.org/gf-protest-kg#526>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1489> ;
+  schema:Country <http://www.wikidata.org/entity/Q96> ;
+  rdfs:label "Mexico City" .
+
+<http://example.org/gf-protest-kg#527>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q1475> ;
+  schema:Country <http://www.wikidata.org/entity/Q928> ;
+  rdfs:label "Quezon City" .
+
+<http://example.org/gf-protest-kg#528>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q30988> ;
+  schema:Country <http://www.wikidata.org/entity/Q30> ;
+  rdfs:label "Hagåtña" .
+
+<http://example.org/gf-protest-kg#529>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q39178> ;
+  schema:Country <http://www.wikidata.org/entity/Q754> ;
+  rdfs:label "Port of Spain" .
+
+<http://example.org/gf-protest-kg#530>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3761> ;
+  schema:Country <http://www.wikidata.org/entity/Q117> ;
+  rdfs:label "Accra" .
+
+<http://example.org/gf-protest-kg#531>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q2841> ;
+  schema:Country <http://www.wikidata.org/entity/Q739> ;
+  rdfs:label "Bogotá" .
+
+<http://example.org/gf-protest-kg#532>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3870> ;
+  schema:Country <http://www.wikidata.org/entity/Q114> ;
+  rdfs:label "Nairobi" .
+
+<http://example.org/gf-protest-kg#533>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q190021> ;
+  schema:Country <http://www.wikidata.org/entity/Q408> ;
+  rdfs:label "Townsville" .
+
+<http://example.org/gf-protest-kg#534>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q8678> ;
+  schema:Country <http://www.wikidata.org/entity/Q155> ;
+  rdfs:label "Rio de Janeiro" .
+
+<http://example.org/gf-protest-kg#535>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q174> ;
+  schema:Country <http://www.wikidata.org/entity/Q155> ;
+  rdfs:label "São Paulo" .
+
+<http://example.org/gf-protest-kg#536>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q4361> ;
+  schema:Country <http://www.wikidata.org/entity/Q155> ;
+  rdfs:label "Curitiba" .
+
+<http://example.org/gf-protest-kg#537>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q3114> ;
+  schema:Country <http://www.wikidata.org/entity/Q408> ;
+  rdfs:label "Canberra" .
+
+<http://example.org/gf-protest-kg#538>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q37100> ;
+  schema:Country <http://www.wikidata.org/entity/Q664> ;
+  rdfs:label "Auckland" .
+
+<http://example.org/gf-protest-kg#539>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q339527> ;
+  schema:Country <http://www.wikidata.org/entity/Q408> ;
+  rdfs:label "Launceston" .
+
+<http://example.org/gf-protest-kg#540>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q79990> ;
+  schema:Country <http://www.wikidata.org/entity/Q664> ;
+  rdfs:label "Christchurch" .
+
+<http://example.org/gf-protest-kg#541>
+  a <http://www.wikidata.org/entity/Q95965839> ;
+  schema:City <http://www.wikidata.org/entity/Q610600> ;
+  schema:Country <http://www.wikidata.org/entity/Q258> ;
+  rdfs:label "Queenstown" .
+
