@@ -15,7 +15,7 @@ module.exports = {
         mainFields: ['svelte', 'browser', 'module', 'main'],
     },
     output: {
-        path: __dirname + '/public',
+        path: __dirname + '/docs',
         filename: '[name].js',
         chunkFilename: '[name].[id].js',
     },
@@ -48,7 +48,7 @@ module.exports = {
     plugins: [],
     devtool: prod ? false : 'source-map',
     devServer: {
-        contentBase: path.join(__dirname, 'public'),
+        contentBase: path.join(__dirname, 'docs'),
 
         inline: true,
         port: 8013,
