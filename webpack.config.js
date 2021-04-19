@@ -51,7 +51,7 @@ module.exports = {
         contentBase: path.join(__dirname, 'docs'),
 
         inline: true,
-        port: 8013,
+        port: 8016,
     },
     target: 'web',
     externals: [

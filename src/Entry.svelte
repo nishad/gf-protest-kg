@@ -13,5 +13,5 @@
   <ul>
     <li><a href="./data/protests.ttl">RDF (Turtle)</a></li>
   </ul>
-  <p>Finde the sources of this project on <a href="https://github.com/nishad/gf-protest-kg">GitHub</a>.</p>
+  <p>Find the source of this project on <a href="https://github.com/nishad/gf-protest-kg">GitHub</a>.</p>
 </main>

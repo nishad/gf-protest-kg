@@ -7,6 +7,7 @@
   import {push} from 'svelte-spa-router'
   import { loaded } from './stores.js';
   import { count } from './stores.js';
+  import { get_store_value } from "svelte/internal";
 
   let dataset = Dataset.dataset([]);
 
@@ -64,13 +65,19 @@
 
   $: {
     console.log("dataset", dataset);
-    updateStore(Array.from(dataset.quads)).then(() => {console.log('store updated')
-    count.update(n => n + 1);
-  });
+    let status = updateStore(Array.from(dataset.quads)).then(() => {console.log('store updated')});
   }
 
 </script>
 
 <main>
   <h4 id="resr">Loading triples</h4>
+  {#await status}
+	<p>loading {dataset.quads.size} triples... </p>
+	<p>please wait...</p>
+{:then value}
+	<!-- promise was fulfilled -->
+	<p>completed ...</p>
+{/await}
+
 </main>
